@@ -11,7 +11,7 @@ Team Eagle(Delta) repository.
 # Live Demo
 
 View a live demo at the following link.
-[Live Link](https://davidallenr.github.io/team_eagle/)
+[Live Link](https://lamtalaa.github.io/WarCardGame/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
